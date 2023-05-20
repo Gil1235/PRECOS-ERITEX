@@ -1,6 +1,5 @@
 body{
-    background-image: url(png.jpg);
-    
+    background-image: url(style/png/png.jpg);
 }
 
 h1{
@@ -13,7 +12,6 @@ h1{
     padding: 25px;
     box-shadow: 5px px 10px rgba(0 ,0 , 0, 0, 2);
 }
-
 select{
     background-color: #aaef;
     display: flex;
@@ -26,7 +24,7 @@ select{
     overflow: hidden;
     margin: 2vh;
     border-radius: 5px;
-    box-shadow: 5px 5px 10px rgba(0 ,0 , 0, 0, 2);
+    box-shadow: 10px 10px 10px rgba(0 ,0 , 0, 0, 2);
     
 
 }
